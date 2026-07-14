@@ -1,0 +1,2 @@
+# niagaralodge
+Static site: niagaralodge
